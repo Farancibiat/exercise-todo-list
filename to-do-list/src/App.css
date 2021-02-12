@@ -10,3 +10,14 @@
 .close:hover{
     color:red !important;
 }
+
+body{
+    background-image: url("https://fcd62b92-7c8f-41b8-b7d4-ac9356b0e467.ws-us03.gitpod.io/files/download/?id=a4f673d9-8fdb-40ec-ac61-6447aeeb9ba5");
+}
+
+h1{
+    color:  rgb(197, 165, 192);
+    font-weight: 100 !important;
+
+}
+
