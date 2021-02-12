@@ -1,0 +1,12 @@
+.min-size{
+    font-size: 12px;
+}
+
+.close{
+    color:white !important;
+    font-weight: 600;
+}
+
+.close:hover{
+    color:red !important;
+}
