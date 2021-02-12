@@ -6,7 +6,7 @@ import './App.css';
 
 
 function App() {
-    const [dbArray, changeArray] = useState(["tarea1", "tarea2"]);
+    const [dbArray, changeArray] = useState([]);
 
 
 
@@ -31,7 +31,7 @@ function App() {
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-8 text-center">
-                    <h1 id="title">toDos</h1>
+                    <h1 id="title">todos</h1>
                 </div>
             </div>
             <div className="row justify-content-center">
